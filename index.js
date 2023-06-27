@@ -73,7 +73,7 @@ client.on('interactionCreate', async (interaction) => {
                         new ButtonBuilder()
                             .setLabel('Github-Bot')
                             .setStyle(ButtonStyle.Link)
-                            .setURL('https://github.com/Braghadeesh005/House_Price_Prediction_ML_Bot'),
+                            .setURL('https://github.com/Braghadeesh005/Predator_Discord_Bot'),
                         new ButtonBuilder()
                             .setLabel('Github-ML')
                             .setStyle(ButtonStyle.Link)
